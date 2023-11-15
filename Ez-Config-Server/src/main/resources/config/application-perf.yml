@@ -8,7 +8,7 @@ management:
         include:
           - '*'
 greeting-service:
-  greeting: "perf: Olá"
-  defaultvalue: "SHOW"
+  greeting: "perf: teste"
+  defaultvalue: "refresh"
 
 
